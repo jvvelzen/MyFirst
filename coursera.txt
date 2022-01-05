@@ -1,0 +1,215 @@
+Final Exam
+Total points 10
+1.
+Question 1
+Which of the following is not true about Machine Learning?
+
+
+1 point
+
+Machine Learning was inspired by the learning process of human beings.
+
+
+
+Machine Learning models help us in tasks such as object recognition, summarization, and recommendation.
+
+
+
+XXXX Machine learning gives computers the ability to make decision by writing down rules and methods and being explicitly programmed.
+
+
+
+Machine Learning models iteratively learn from data, and allow computers to find hidden insights.
+
+
+2.
+Question 2
+Which of the following groups are not Machine Learning techniques?
+
+
+1 point
+
+Classification and Clustering
+
+
+
+XXXXNumpy, Scipy and Scikit-Learn
+
+
+
+Anomaly Detection and Recommendation Systems
+
+
+3.
+Question 3
+When would you not use Multiple Linear Regression?
+
+
+1 point
+
+>>>> When we would like to predict the impacts that weather and temperature have on a particular crop.
+
+
+
+XXXX None of the above.
+
+
+
+When we would like to predict impacts of changes in independent variables on a dependent variable.
+
+
+
+XXX When we would like to identify the strength of the effect that the independent variables have on a dependent variable. 
+
+
+4.
+Question 4
+In which of the following is correct for Polynomial Regression?
+
+
+1 point
+
+XXXX It can fit a curved line to your data.
+
+
+
+It can be transformed into a linear regression model using the Least Squares method.
+
+
+
+It can use the same mechanism as Multiple Linear Regression to find the parameters.
+
+
+
+>>> All of the above.
+
+
+5.
+Question 5
+Which of the below is a sample of classification problem?
+
+
+1 point
+
+To predict the category to which a customer belongs to.
+
+
+
+To predict whether a customer switches to another provider/brand. 
+
+
+
+To predict whether a customer responds to a particular advertising campaign or not.
+
+
+
+XXXX All of the above
+
+
+6.
+Question 6
+What is a statistical model that uses Logistic function to model the conditional probability?
+
+
+1 point
+
+XXXX Ridge regression
+
+
+
+Linear regression
+
+
+
+>>>> Logistic regression
+
+
+
+Stepwise Regression
+
+
+7.
+Question 7
+Which statement is NOT TRUE about k-means clustering?
+
+
+1 point
+
+XXXX As k-means is an iterative algorithm, it guarantees that it will always converge to the global optimum. 
+
+
+
+k-means divides the data into non-overlapping clusters without any cluster-internal structure.
+
+
+
+The objective of k-means, is to form clusters in such a way that similar samples go into a cluster, and dissimilar samples fall into different clusters. 
+
+
+8.
+Question 8
+What does DBCSAN stand for?
+
+
+1 point
+
+>>>> Density-Based Spatial Clustering of Applications with Noise.
+
+
+
+XXX Data-Based Spatial Clustering of Applications with Noise.
+
+
+
+Density-based Spatial Cores of Applications with Noise.
+
+
+
+Data-Based Sample Clustering of Applications with Noise.
+
+
+9.
+Question 9
+What is/are the advantage/s of Recommender Systems ?
+
+
+1 point
+
+XXXX Recommender Systems provide a better experience for the users by giving them a broader exposure to many different products they might be interested in. 
+
+
+
+Recommender Systems encourage users towards continual usage or purchase of their product 
+
+
+
+Recommender Systems benefit the service provider by increasing potential revenue and better security for its consumers. 
+
+
+
+>>> All of the above.
+
+
+10.
+Question 10
+What is a content-based recommendation system? 
+
+
+1 point
+
+XXXX Content-based recommendation system tries to recommend items to the users based on their profile built upon their preferences and taste. 
+
+
+
+Content-based recommendation system tries to recommend items based on similarity among items.
+
+
+
+Content-based recommendation system tries to recommend items based on the similarity of users when buying, watching, or enjoying something.
+
+
+
+All of above.
+
+
+
